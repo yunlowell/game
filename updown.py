@@ -6,6 +6,9 @@ while True:
     random_num = random.randint(1, 100)
     tries = 0 #시도 횟수 세려고 넣은 변수
 
+    if best_score != float('inf')
+        print(f"이전 최고기록은 {best_score}번 입니다."}
+
     while True:
         player_num = int(input("숫자를 입력 하세요."))
 
